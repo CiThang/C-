@@ -1,0 +1,4 @@
+Struct
+ - Như là 1 kiểu dữ liệu
+ - Struct chỉ dùng để lấy/gán dữ liệu
+ - Không thể tạo được các phương thức như một class được
